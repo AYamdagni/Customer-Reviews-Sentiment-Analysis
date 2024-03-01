@@ -2,7 +2,7 @@
 
 ### Introduction
 
-By analyzing reviews of Delta Airlines, the company can gain insights into how customers feel about their experiences with the airline. This information can then be used to make data-driven strategic decisions to improve customer satisfaction thereby fostering business growth.
+By analyzing reviews of Delta Airlines, this project aims to gain insights into how customers feel about their experiences with the airline. This information can then be used by the airlines to make data-driven strategic decisions to improve customer satisfaction thereby fostering business growth.
 
 ### Technologies Used
 - R
