@@ -52,7 +52,7 @@ By analyzing reviews of Delta Airlines, this project aims to gain insights into 
 
 ### References and Acknowledgements
 
-I would like to thank my professor for Data Mining and Predictive Analytics course at UMD Dr.Kislaya Prasad for guiding me throughout the project. And other contributors on my project team - Aparna Raghavendra Rao, Nishanthi Ravichandran, Hareeca Chintala and Charishma Jaladi for their inputs.
+I would like to thank my professor for Data Mining and Predictive Analytics course at UMD Dr.Kislaya Prasad for guiding me throughout the project. I am grateful to other contributors on my project team - Aparna Raghavendra Rao, Nishanthi Ravichandran, Hareeca Chintala and Charishma Jaladi for their inputs.
 
 
 
